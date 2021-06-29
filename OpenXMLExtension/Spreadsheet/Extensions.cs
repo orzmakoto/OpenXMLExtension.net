@@ -2,7 +2,7 @@
 
 namespace OpenXMLExtension.Spreadsheet
 {
-    public class ExtensionUtils
+    public class Extensions
     {
     }
 }
